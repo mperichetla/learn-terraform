@@ -1,4 +1,4 @@
-terrrafoem {
+terrraform {
   required_providers {
     aws = {
       source = "hashicorp/aws"
